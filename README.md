@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Derek Labios
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We are assigned in creating JavaScript files to fix a recipe app.
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
