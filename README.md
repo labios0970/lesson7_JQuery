@@ -13,11 +13,10 @@ Derek Labios
 We are assigned in creating JavaScript files to fix a recipe app.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://labios0970.github.io/lesson7_JQuery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to edit the .css file through JavaScript
+2. I learned how to navigate the DOM with google chrome developer tools.
+3. I learned how to use JQuery to display hidden text.
 
